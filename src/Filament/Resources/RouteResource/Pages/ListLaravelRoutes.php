@@ -5,8 +5,8 @@ namespace BondarDe\FilamentRouteList\Filament\Resources\RouteResource\Pages;
 use BondarDe\FilamentRouteList\Filament\Resources\LaravelRouteResource;
 use BondarDe\FilamentRouteList\FilamentRouteList;
 use BondarDe\FilamentRouteList\Models\LaravelRoute;
-use Filament\Resources\Components\Tab;
 use Filament\Resources\Pages\ListRecords;
+use Filament\Schemas\Components\Tabs\Tab;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Collection;
 
